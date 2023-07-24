@@ -1,0 +1,243 @@
+{
+    "iphones": [
+      {
+        "categoria": "iPhone 14 PRO MAX",
+        "titulo": "128/256/512/1TB",
+        "imagem": "./assets/images/produtos/iphone14pro.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 14 PRO",
+        "titulo": "128/256/512/1TB",
+        "imagem": "./assets/images/produtos/iphone14pro.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 14",
+        "titulo": "128/256/512/1TB",
+        "imagem": "./assets/images/produtos/iphone14.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 13 PRO MAX",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone13promax.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 13 PRO",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone13pro.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 13",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone13.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 13 Mini",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone13mini.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 12 PRO MAX",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone12promax.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 12 PRO",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone12pro.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 12",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone12.png",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 12 Mini",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphon12mini.png",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 11 PRO MAX",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone11promax.png",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 11 PRO",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone11pro.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone 11",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphone11.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone XR",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphonexr.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone XS",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphonexs.png",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone XS",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphonexsmax.webp",
+        "link": "#"
+      },
+      {
+        "categoria": "iPhone X",
+        "titulo": "128/256/512GB",
+        "imagem": "./assets/images/produtos/iphonex.png",
+        "link": "#"
+      }
+      
+    ],
+    "ipads": [
+      {
+        "categoria": "iPad Pro",
+        "titulo": "10ª geração",
+        "imagem": "./assets/images/produtos/ipadpro.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "iPad Air",
+        "titulo": "10ª geração",
+        "imagem": "./assets/images/produtos/ipadair.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "iPad",
+        "titulo": "10ª geração",
+        "imagem": "./assets/images/produtos/ipad.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "iPad",
+        "titulo": "9ª geração",
+        "imagem": "./assets/images/produtos/ipad9gen.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "iPad Mini",
+        "titulo": "10ª geração",
+        "imagem": "./assets/images/produtos/ipadmini.jpg",
+        "link": "#"
+      }
+    ],
+    "airpods": [
+      {
+        "categoria": "AirPods",
+        "titulo": "2ª geração",
+        "imagem": "./assets/images/produtos/airpods2gen.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "AirPods",
+        "titulo": "3ª geração",
+        "imagem": "./assets/images/produtos/airpods3gen.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "AirPods Pro",
+        "titulo": "2ª geração",
+        "imagem": "./assets/images/produtos/airpodspro2gen.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "AirPods Max",
+        "titulo": ".",
+        "imagem": "./assets/images/produtos/airpodsmax.jpg",
+        "link": "#"
+      }
+    ],
+    "watchs": [
+      {
+        "categoria": "Watch Series 8",
+        "titulo": "45 mm ou 41 mm",
+        "imagem": "./assets/images/produtos/watch8.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "Watch Series SE",
+        "titulo": "44 mm ou 40 mm",
+        "imagem": "./assets/images/produtos/watchse.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "Watch Ultra",
+        "titulo": "49 mm",
+        "imagem": "./assets/images/produtos/watchultra.jpg",
+        "link": "#"
+      }
+    ],
+    "outros": [
+      {
+        "categoria": "Apple Pencil",
+        "titulo": "1ª geração",
+        "imagem": "./assets/images/produtos/apencil.png",
+        "link": "#"
+      },
+      {
+        "categoria": "Apple Pencil",
+        "titulo": "2ª geração",
+        "imagem": "./assets/images/produtos/apencil2.png",
+        "link": "#"
+      },
+      {
+        "categoria": "AirTag",
+        "titulo": "unitário ou pack",
+        "imagem": "./assets/images/produtos/airtag4.png",
+        "link": "#"
+      }
+    ],
+    "macbooks": [
+      {
+        "categoria": "Macbook M2",
+        "titulo": "15'' - 512 GB",
+        "imagem": "./assets/images/produtos/macbookm22.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "Macbook M2",
+        "titulo": "15'' - 256 GB",
+        "imagem": "./assets/images/produtos/macbookm22.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "Macbook M2",
+        "titulo": "13'' - 512 GB",
+        "imagem": "./assets/images/produtos/macbookm2.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "Macbook M2",
+        "titulo": "13'' - 256 GB",
+        "imagem": "./assets/images/produtos/macbookm2.jpg",
+        "link": "#"
+      },
+      {
+        "categoria": "Macbook M1",
+        "titulo": "13'' - 256 GB",
+        "imagem": "./assets/images/produtos/macbookm1.jpg",
+        "link": "#"
+      }
+    ]
+  }

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhones Recife</title>
+</head>
+<body>
+    redirecionado...
+
+    <script>
+        // Array de links aleatórios
+        const linksAleatorios = [
+          'https://wa.me/+5581998788602?text=Olá Rayssa, me interessei por um produto da iPhones Recife, poderia me ajudar?',
+          'https://wa.me/+5581971208800?text=Olá Jacques, me interessei por um produto da iPhones Recife, poderia me ajudar?',
+          'https://wa.me/+5581971201100?text=Olá Érika, me interessei por um produto da iPhones Recife, poderia me ajudar?',
+          'https://wa.me/+5581993707571?text=Olá Mateus, me interessei por um produto da iPhones Recife, poderia me ajudar?',
+          'https://wa.me/+5581993539678?text=Olá Bruno, me interessei por um produto da iPhones Recife, poderia me ajudar?'
+        ];
+        
+        // Função para redirecionar para um link aleatório
+        function redirecionarParaLinkAleatorio() {
+          const indexAleatorio = Math.floor(Math.random() * linksAleatorios.length);
+          const linkAleatorio = linksAleatorios[indexAleatorio];
+          window.location.href = linkAleatorio;
+        }
+        
+        // Redirecionar para um link aleatório após 1 segundo
+        setTimeout(redirecionarParaLinkAleatorio, 1000);
+        </script>
+        
+</body>
+</html>
